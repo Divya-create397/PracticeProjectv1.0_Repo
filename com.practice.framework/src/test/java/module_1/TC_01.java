@@ -8,4 +8,6 @@ public class TC_01 {
 	
 	String contNum;
 	
+	int num;
+	
 }
